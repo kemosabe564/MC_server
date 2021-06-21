@@ -5,6 +5,10 @@ https://www.mcbbs.net/thread-142335-1-2.html
 记得搞成forge版
 版本1.16.4
 
+## MOD和光影存放
+  分别放在游戏目录的mods和shaderpacks下
+  没有直接新建
+
 ## MOD：
   ### 必须：
     小地图:
