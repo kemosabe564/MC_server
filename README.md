@@ -8,6 +8,7 @@ https://www.mcbbs.net/thread-142335-1-2.html
 MOD：
   必须：
     小地图:
+      两个xaero_Minimap的jar文件
     
   可选：
     自定义皮肤:
