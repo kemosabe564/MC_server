@@ -1,10 +1,12 @@
 # MC_server
 
+## 有用的链接
+  https://blog.zeruns.tech/archives/635.html
 ## 游戏本体
-HCML链接
-https://www.mcbbs.net/thread-142335-1-2.html
-记得搞成forge版
-版本1.16.4
+  HCML链接
+  https://www.mcbbs.net/thread-142335-1-2.html
+  记得搞成forge版
+  版本1.16.4
 
 ## MOD和光影存放
   分别放在游戏目录的mods和shaderpacks下
