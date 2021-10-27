@@ -3,6 +3,7 @@
 ## 有用的链接
   https://blog.zeruns.tech/archives/635.html
 ## 游戏本体
+  在文件列表里面有，HMCL-3.3.188.exe
   HCML链接
   https://www.mcbbs.net/thread-142335-1-2.html
   记得搞成forge版
